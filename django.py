@@ -4,9 +4,11 @@
 #
 # Author:      EDDLAP
 #
-# Created:     18/11/2021
+# Created:     2021-11-18
 # Copyright:   (c) EDDLAP 2021
-# Licence:     <your licence>
+# Licence:     GNU
+#
+# Actualizado: 2022-07-18
 #-------------------------------------------------------------------------------
 
 #Para revisar la estructura de un directorio
